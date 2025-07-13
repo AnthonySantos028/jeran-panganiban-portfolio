@@ -19,7 +19,7 @@
             Passionate about creating elegant solutions to complex problems
           </p>
           <div class="flex gap-4 justify-center md:justify-start">
-            <a href="/documents/cv.pdf"  target="_blank" class="bg-[#169976] hover:bg-white hover:text-[#222222] transition-colors text-white px-6 py-2 rounded-lg ">
+            <a href="documents/cv.pdf"  target="_blank" class="bg-[#169976] hover:bg-white hover:text-[#222222] transition-colors text-white px-6 py-2 rounded-lg ">
               View CV
             </a>
             <router-link to="/about" class="border border-white text-white dark:text-black dark:border-black px-6 py-2 rounded-lg hover:bg-white hover:text-[#222222] transition-colors">
